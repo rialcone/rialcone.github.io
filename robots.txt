@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rialcone.github.io/sitemap.html.gz
+Sitemap: https://rialcone.github.io/app/sitemap.html.gz
+Sitemap: https://rialcone.github.io/assets/sitemap.html.gz
+Sitemap: https://rialcone.github.io/css/sitemap.html.gz
+Sitemap: https://rialcone.github.io/includes/sitemap.html.gz
+Sitemap: https://rialcone.github.io/item/sitemap.html.gz
+Sitemap: https://rialcone.github.io/src/sitemap.html.gz
